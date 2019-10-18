@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 2. What is the difference between a function and a method?
 
-
+    Functionss are reusable code. A method is a function inside of an object.
 
 3. What is closure?
 
